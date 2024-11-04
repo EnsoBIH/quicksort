@@ -3,5 +3,6 @@
         "python-quicksort"
     ],
     "python.testing.unittestEnabled": false,
-    "python.testing.pytestEnabled": true
+    "python.testing.pytestEnabled": true,
+    "dotnet.defaultSolution": "QuickSortApp.sln"
 }

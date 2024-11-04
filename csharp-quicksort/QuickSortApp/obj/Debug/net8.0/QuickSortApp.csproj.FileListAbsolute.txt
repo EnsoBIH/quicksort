@@ -1,0 +1,15 @@
+C:\Users\edautovic\Documents\GitHub\quicksort\csharp-quicksort\QuickSortApp\bin\Debug\net8.0\QuickSortApp.exe
+C:\Users\edautovic\Documents\GitHub\quicksort\csharp-quicksort\QuickSortApp\bin\Debug\net8.0\QuickSortApp.deps.json
+C:\Users\edautovic\Documents\GitHub\quicksort\csharp-quicksort\QuickSortApp\bin\Debug\net8.0\QuickSortApp.runtimeconfig.json
+C:\Users\edautovic\Documents\GitHub\quicksort\csharp-quicksort\QuickSortApp\bin\Debug\net8.0\QuickSortApp.dll
+C:\Users\edautovic\Documents\GitHub\quicksort\csharp-quicksort\QuickSortApp\bin\Debug\net8.0\QuickSortApp.pdb
+C:\Users\edautovic\Documents\GitHub\quicksort\csharp-quicksort\QuickSortApp\obj\Debug\net8.0\QuickSortApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edautovic\Documents\GitHub\quicksort\csharp-quicksort\QuickSortApp\obj\Debug\net8.0\QuickSortApp.AssemblyInfoInputs.cache
+C:\Users\edautovic\Documents\GitHub\quicksort\csharp-quicksort\QuickSortApp\obj\Debug\net8.0\QuickSortApp.AssemblyInfo.cs
+C:\Users\edautovic\Documents\GitHub\quicksort\csharp-quicksort\QuickSortApp\obj\Debug\net8.0\QuickSortApp.csproj.CoreCompileInputs.cache
+C:\Users\edautovic\Documents\GitHub\quicksort\csharp-quicksort\QuickSortApp\obj\Debug\net8.0\QuickSortApp.sourcelink.json
+C:\Users\edautovic\Documents\GitHub\quicksort\csharp-quicksort\QuickSortApp\obj\Debug\net8.0\QuickSortApp.dll
+C:\Users\edautovic\Documents\GitHub\quicksort\csharp-quicksort\QuickSortApp\obj\Debug\net8.0\refint\QuickSortApp.dll
+C:\Users\edautovic\Documents\GitHub\quicksort\csharp-quicksort\QuickSortApp\obj\Debug\net8.0\QuickSortApp.pdb
+C:\Users\edautovic\Documents\GitHub\quicksort\csharp-quicksort\QuickSortApp\obj\Debug\net8.0\QuickSortApp.genruntimeconfig.cache
+C:\Users\edautovic\Documents\GitHub\quicksort\csharp-quicksort\QuickSortApp\obj\Debug\net8.0\ref\QuickSortApp.dll
