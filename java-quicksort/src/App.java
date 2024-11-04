@@ -1,36 +1,37 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
-
         int[] Array = { 5, 3, 8, 4, 2, 7, 1, 10, 6, 9 };
         quickSort(Array, 0, Array.length - 1);
         System.out.println("Sorted Array: " + java.util.Arrays.toString(Array));
     }
 
-    public static void quickSort(int[] Array, int low, int high) {
-        int i, j, w, x;
-        i = low;
-        j = high;
-        x = Array[(low + high) / 2];
-        
-        do {
-            while (Array[i] < x)
-                i++;
-            while (x < Array[j])
-                j--;
-            if (i <= j) {
-                w = Array[i];
-                Array[i] = Array[j];
-                Array[j] = w;
-                i++;
-                j--;
+    public static void quickSort(int[] array, int low, int high) {
+        int left = low;
+        int right = high;
+        int pivot = array[(low + high) / 2];
+    
+        while (left <= right) {
+            while (array[left] < pivot) {
+                left++;
             }
-        } while (i <= j);
+            while (array[right] > pivot) {
+                right--;
+            }
+            if (left <= right) {
+                int temp = array[left];
+                array[left] = array[right];
+                array[right] = temp;
+                left++;
+                right--;
+            }
+        }
+    
 
-
-        if (low < j)
-            quickSort(Array, low, j);
-        if (i < high)
-            quickSort(Array, i, high);
+        if (low < right) {
+            quickSort(array, low, right);
+        }
+        if (left < high) {
+            quickSort(array, left, high);
+        }
     }
 }
